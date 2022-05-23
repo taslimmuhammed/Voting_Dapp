@@ -1,0 +1,64 @@
+
+.vote_main{
+    height: 96vh;
+}
+.nav-wrapper{
+    background-color: orange;
+    width: 100%;
+    display: flex;
+    height: 120px;
+    justify-content: center;
+    align-items: center;
+}
+.bottom_main{
+    width: 100%;
+    
+}
+.container{
+   width: 100%;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+}
+.card_light_blue{
+   background-color: rgba(26, 206, 238, 0.767);
+   color: rgb(243, 243, 243);
+   margin: 40px;
+   width: 70%;
+   padding-left: 30px;
+   box-shadow: 2px 5px 2px 2px 2px rgba(7, 53, 255, 0.2);
+}
+
+.h1{
+   width: 70%;
+}
+
+table {
+    border-collapse: separate;
+    border-spacing: 0 15px;
+    width: 100%;
+  }
+thead {
+    border-collapse: separate;
+    border-spacing: 0 15px;
+    width: 100%;
+    text-align: left;
+  }
+  
+  /* th {
+    background-color: #4287f5;
+    color: white;
+  }
+  
+  th,
+  td {
+    width: 150px;
+    text-align: center;
+    border: 1px solid black;
+    padding: 5px;
+  }
+  
+  h2 {
+    color: #4287f5;
+  } */

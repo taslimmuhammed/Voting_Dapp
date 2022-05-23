@@ -1,0 +1,55 @@
+.home{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+.home_main{
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.satyam_img{
+    width: 150px;
+}
+.home_Welcome{
+  color: rgba(6, 6, 6, 0.662);
+  font-weight: 650;
+}
+.in_1{
+    margin-top: 20px;
+    width: 250px;
+    height: 30px;
+}
+.in_1:focus{
+    outline: none !important;
+    border: 3px solid rgb(37, 163, 185);
+    
+}
+.bt_1{
+    margin-top: 20px;
+    width: 250px;
+    height: 30px;
+    background-color: brown;
+    text-align: center;
+    padding-top: 2px;
+    color: white;
+
+}
+.bt_1:hover{
+    background-color: rgb(189, 63, 63);
+}
+
+.bt_2{
+    margin-top: 5px;
+    width: 250px;
+    height: 30px;
+    text-align: center;
+    color: rgba(6, 6, 6, 0.662);
+    padding-top: 2px;
+
+}
+.bt_2:hover{
+    background-color: rgba(189, 63, 63, 0.632);
+}
